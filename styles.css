@@ -3,7 +3,7 @@ body {
 }
 
 h1{
-    
+    font-color: pink;
 }
 .image{
     border: 5px solid green;
@@ -21,3 +21,4 @@ h1{
     box-shadow: 2px 3px #888888;
 
 }
+
